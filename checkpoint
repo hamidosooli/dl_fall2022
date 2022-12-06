@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hamidoi/MADDPG/experiments/learning_curves"
+all_model_checkpoint_paths: "/home/hamidoi/MADDPG/experiments/learning_curves"
